@@ -2,7 +2,7 @@
 
 Card and payload injection through independently verifiable Commander Cards.
 
-This is an independent Ground Zero Gaming server-card port:
+This is an independent Ground Zero Games server-card port:
 
 - repository: `rustycohl/DEALER`
 - Page: https://rustycohl.github.io/DEALER/
